@@ -2,7 +2,7 @@
 > Running through the nbdev process, end to end
 
 
-This file will become your README and also the index of your documentation.
+This file becomes your README and also the index of your documentation.
 
 ## Install
 
@@ -22,7 +22,3 @@ say_sup('Klara')
     "what's up Klara?"
 
 
-
-```python
-assert say_sup('Klara') == "what's up Klara?"
-```
